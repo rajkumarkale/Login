@@ -27,4 +27,5 @@ http://localhost:9090
 http://localhost:9090/explorer
 
 In case of mongoError, please check [mongoDB Installation](https://docs.mongodb.com/manual/installation/) and mongDB Server
-/home/iquantela/Pictures/loopback.png
+
+![Alt text](/home/iquantela/Pictures/loopback.png?raw=true "exlporer")
