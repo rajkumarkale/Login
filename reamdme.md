@@ -23,9 +23,9 @@ $ node .
 ```
 Project will be running on following hosts:
 http://localhost:9090
-
+ 
 http://localhost:9090/explorer
 
-In case of mongoError, please check [mongoDB Installation](https://docs.mongodb.com/manual/installation/) and mongDB Server
-
-![Alt text](relative /home/iquantela/Pictures/loopback.png?raw=true "exlporer")
+In case of mongoError, please check:
+* MongoDB connection and Authentication.
+* [mongoDB Installation](https://docs.mongodb.com/manual/installation/) and mongDB Server.
