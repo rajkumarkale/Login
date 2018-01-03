@@ -7,6 +7,11 @@ You need to clone the project:
 ```sh
 $ git clone // project git link
 ```
+
+### Open codebase
+```
+cd ieserver
+```
 followed by
 
 ```sh
@@ -18,4 +23,5 @@ $ node .
 ```
 Project will be running on following hosts:
 http://localhost:9090
+
 http://localhost:9090/explorer
