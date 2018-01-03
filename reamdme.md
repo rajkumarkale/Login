@@ -1,6 +1,6 @@
 
 # ieserver
-### Installation of project
+### Installation of Project
 
 You need to clone the project:
 
@@ -17,7 +17,7 @@ followed by
 ```sh
 $ npm install 
 ```
-For running the app
+For running the project
 ```sh
 $ node .
 ```
@@ -27,3 +27,4 @@ http://localhost:9090
 http://localhost:9090/explorer
 
 In case of mongoError, please check [mongoDB Installation](https://docs.mongodb.com/manual/installation/) and mongDB Server
+/home/iquantela/Pictures/loopback.png
