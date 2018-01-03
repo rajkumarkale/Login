@@ -9,7 +9,7 @@ $ git clone // project git link
 ```
 
 ### Open codebase
-```
+```sh
 cd ieserver
 ```
 followed by
